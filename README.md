@@ -1,33 +1,32 @@
-# README Generator
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+#Willy B's README Generator
+This was my first backend project using node.js.
 
-## Description
-  To help generate a comprehensive template for future README files.
-## Table of Contents
-<a href="#installation">Installation</a>
+This week's challenge was a great introduction into the use of integrated terminals, npm and package.json files.
 
-<a href="#usage">Usage</a>
+My primary focus for this debugging challenge was to expand the index.js file to include the questions for creating a templated README file, while the generateMarkdown.js file primarly served as a sandbox to include three unique licenses to choose from: Apache2.0, Boost and BSD provided by OpenSource.org.
 
-<a href="#license">License</a>
+After learning about all the ways to write cleaner, simpler code this past week, I found that some of the pseudocode provided could've asked for fewer lines within the generateMarkdown.js file.
 
-<a href="#contribution">Contribution(s)</a>
+Nonetheless, I tend to prefer debugging challenges, as they require you to work with code already provided—a scenario that seems more real-world than writing code from scratch.
 
-<a href="#test">Testing</a>
+As specified in the Challenge Acceptance Criteria, the generator achieves the following:
 
-<a href="#questions">Questions?</a>
+✨ A high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
 
-## <div id="installation">Installation</div>
-  My project utilized npm, VS Code and GitHub as part of the installation (and execution) process.
-## <div id="usage">Usage</div>
-  My project will be used to help generate future README files for reference.
-## <div id="license">License</div>
- This application is covered under [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+✨ Project name is displayed as the title of the README.
 
-## <div id="contribution">Contribution(s)</div>
-  None, as the scope is pretty small and the current list of contributions is relatively extensive.
-## <div id="test">Testing</div>
-  I conducted testing using console logging and troubleshooting within the index.js file's integrated terminal (as seen here).
-## <div id="questions">Questions?</div>
-Email: will.brennana@gmail.com
+✨ A description, installation instructions, usage information, contribution guidelines, and test instructions are added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests.
 
-  GitHub: <a href="https://github.com/willbrennana">willbrennana</a>
+✨ A badge for the chosen license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+
+✨ My GitHub username is added to the section of the README entitled Questions, with a link to my GitHub profile.
+
+✨ My email is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
+
+✨ A Table of Contents takes me to the corresponding sections of the README file.
+
+Below is a screenshot of my latest and greatest:
+
+![](./ProjectScreenshot.png)
+
+To check out the full experience, watch the video recording of the generated README [here] (https://drive.google.com/file/d/1ST_ZaKDjrAetqt6S37E0uOnrSKctwt9J/view?usp=share_link).
