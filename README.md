@@ -30,4 +30,4 @@ Below is a screenshot of my latest and greatest:
 
 ![](./ProjectScreenshot.png)
 
-To check out the full experience, watch the video recording of the generated README [here] (https://drive.google.com/file/d/1ST_ZaKDjrAetqt6S37E0uOnrSKctwt9J/view?usp=share_link).
+To check out the full experience, watch the video recording of the generated README [here](https://drive.google.com/file/d/1ST_ZaKDjrAetqt6S37E0uOnrSKctwt9J/view?usp=share_link).
